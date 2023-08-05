@@ -1,0 +1,4 @@
+node_modules/
+icon/
+!node_modules/swiper/
+!node_modules/fontawesome/
