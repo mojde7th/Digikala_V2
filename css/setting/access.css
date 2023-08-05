@@ -1,0 +1,69 @@
+div.access,
+div.access2 {
+  width: 100%;
+
+  height: 150px;
+  text-align: center;
+}
+div.access > div {
+  width: 65px;
+  height: 65px;
+
+  display: inline-block;
+  text-align: center;
+  margin-right: 50px;
+  margin-top: 40px;
+  border-radius: 50%;
+  outline: 3px crimson solid;
+  outline-offset: 5px;
+}
+div.access > div > img {
+  width: inherit;
+  height: inherit;
+  border-radius: 50%;
+}
+div.access > div > span {
+  margin-top: 10px;
+  display: inline-block;
+  font-family: yekan;
+  font-size: 11px;
+}
+div.access2 > div {
+  width: 82px;
+  height: 82px;
+
+  display: inline-block;
+  text-align: center;
+  margin-right: 50px;
+  margin-top: 37.5px;
+
+  border-radius: 20%;
+}
+
+div.access2 > div > img,
+div.access2 > div > i {
+  width: 50px;
+  height: 50px;
+  border-radius: 20%;
+}
+
+div.access2 > div > span {
+  margin-top: 10px;
+  display: inline-block;
+  font-family: yekanregular;
+  text-align: center;
+  font-size: 11px;
+ 
+}
+div.access2 > div > i {
+  background-color: rgba(211, 211, 211, 0.377);
+  border-radius: 50%;
+ 
+}
+span.elips{width: inherit;}
+.fa-ellipsis::before {
+  font-size: 25px;
+  color: rgb(132, 132, 132);
+  margin-top: 12.5px;
+  display: inline-block;
+}

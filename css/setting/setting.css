@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+@font-face {
+  font-family: Yekan;
+  src: url("../../fontsIRANYekanWeb.eot");
+  src: url("../../fonts/IRANYekanWeb.ttf");
+  src: url("../../fonts/IRANYekanWeb.woff");
+  src: url("../../fonts/IRANYekanWeb.woff2");
+}
+@font-face {
+  font-family: yekanbold;
+  src: url(../../fonts/iranyekanbold.woff2);
+}
+@font-face {
+  font-family: yekanextrabold;
+  src: url(../../fonts/iranyekanwebextrabold.9346e9a2.woff);
+}
+@font-face {
+  font-family: yekanmedium;
+  src: url(../../fonts/iranyekanwebmedium.2d4f96e5.woff);
+}
+@font-face {
+  font-family: yekanregular;
+  src: url(../../fonts/iranyekanwebregular.e31c09af.woff2);
+}
+div.wrapper {
+  width: 100%;
+}
+html,
+body {
+  direction: rtl;
+  min-height: 3000px;
+}
+:root {
+  --MeshkiTitle: #080a38;
+}

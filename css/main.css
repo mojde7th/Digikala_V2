@@ -1,0 +1,6 @@
+@import "setting/setting.css";
+@import url("./setting/header.css");
+@import url("./setting/access.css");
+@import url(./setting/slider.css);
+@import url(./setting/offer.css);
+@import url(./setting/sell.css);
