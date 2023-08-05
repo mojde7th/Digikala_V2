@@ -113,6 +113,7 @@ h1.bottomoffer {
 div.imgprie {
   height: 70px;
   margin-top: 5px;
+display:block;
 }
 div.imgprie > div.rightdiscount {
   display: inline-block;
