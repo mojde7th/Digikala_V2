@@ -49,7 +49,7 @@ div.mySwiperview > div.swiper-wrapper > div.first {
   background: linear-gradient(to top, #ef4056, #ef394e);
 }
 div.mySwiperview > div.swiper-wrapper > div.swiper-slide {
-  text-align: center;
+  text-align: center;display:block;
 }
 div.mySwiperview > div.swiper-wrapper > div.swiper-slide > img {
   width: 150px;
