@@ -32,7 +32,7 @@ div.wrapper {
 html,
 body {
   direction: rtl;
-  min-height: 1600px;
+
 }
 :root {
   --MeshkiTitle: #080a38;
