@@ -31,7 +31,7 @@ div.wrapper {
 }
 html,
 body {
-  direction: rtl;
+  direction: rtl; min-height: 1600px;
 
 }
 :root {
